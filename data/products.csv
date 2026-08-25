@@ -1,0 +1,421 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,Unit_Cost,Unit_Price
+P0001,NovaTech Laptops 01,Electronics,Laptops,NovaTech,42791.41,56200
+P0002,UrbanEdge Laptops 02,Electronics,Laptops,UrbanEdge,28063.28,58300
+P0003,HomeCraft Laptops 03,Electronics,Laptops,HomeCraft,25120.61,38500
+P0004,Aero Laptops 04,Electronics,Laptops,Aero,48260.83,62600
+P0005,Zenith Laptops 05,Electronics,Laptops,Zenith,21185.36,35000
+P0006,PrimeLine Laptops 06,Electronics,Laptops,PrimeLine,43882.49,60200
+P0007,Vista Laptops 07,Electronics,Laptops,Vista,42828.91,86800
+P0008,CorePlus Laptops 08,Electronics,Laptops,CorePlus,50026.48,78300
+P0009,Everday Laptops 09,Electronics,Laptops,Everday,58912.0,89800
+P0010,BrightLife Laptops 10,Electronics,Laptops,BrightLife,27199.08,48000
+P0011,NovaTech Laptops 11,Electronics,Laptops,NovaTech,30850.97,55800
+P0012,UrbanEdge Laptops 12,Electronics,Laptops,UrbanEdge,33402.39,53800
+P0013,HomeCraft Laptops 13,Electronics,Laptops,HomeCraft,33400.21,69400
+P0014,Aero Laptops 14,Electronics,Laptops,Aero,64646.39,84100
+P0015,Zenith Laptops 15,Electronics,Laptops,Zenith,29526.03,50000
+P0016,PrimeLine Smartphones 01,Electronics,Smartphones,PrimeLine,30328.99,63000
+P0017,Vista Smartphones 02,Electronics,Smartphones,Vista,35598.21,61100
+P0018,CorePlus Smartphones 03,Electronics,Smartphones,CorePlus,38953.72,59800
+P0019,Everday Smartphones 04,Electronics,Smartphones,Everday,15190.49,30800
+P0020,BrightLife Smartphones 05,Electronics,Smartphones,BrightLife,13290.8,20400
+P0021,NovaTech Smartphones 06,Electronics,Smartphones,NovaTech,40803.27,67800
+P0022,UrbanEdge Smartphones 07,Electronics,Smartphones,UrbanEdge,30581.37,50300
+P0023,HomeCraft Smartphones 08,Electronics,Smartphones,HomeCraft,18941.23,27800
+P0024,Aero Smartphones 09,Electronics,Smartphones,Aero,8998.38,15800
+P0025,Zenith Smartphones 10,Electronics,Smartphones,Zenith,22028.49,31500
+P0026,PrimeLine Smartphones 11,Electronics,Smartphones,PrimeLine,24805.36,50800
+P0027,Vista Smartphones 12,Electronics,Smartphones,Vista,20398.17,40300
+P0028,CorePlus Smartphones 13,Electronics,Smartphones,CorePlus,43909.89,63800
+P0029,Everday Smartphones 14,Electronics,Smartphones,Everday,22000.06,32600
+P0030,BrightLife Smartphones 15,Electronics,Smartphones,BrightLife,16093.43,28900
+P0031,NovaTech Audio 01,Electronics,Audio,NovaTech,4221.16,7200
+P0032,UrbanEdge Audio 02,Electronics,Audio,UrbanEdge,2639.15,4400
+P0033,HomeCraft Audio 03,Electronics,Audio,HomeCraft,8596.8,15500
+P0034,Aero Audio 04,Electronics,Audio,Aero,9349.4,14600
+P0035,Zenith Audio 05,Electronics,Audio,Zenith,2660.03,4600
+P0036,PrimeLine Audio 06,Electronics,Audio,PrimeLine,5998.5,8900
+P0037,Vista Audio 07,Electronics,Audio,Vista,6593.38,11400
+P0038,CorePlus Audio 08,Electronics,Audio,CorePlus,14502.47,19900
+P0039,Everday Audio 09,Electronics,Audio,Everday,7802.27,14700
+P0040,BrightLife Audio 10,Electronics,Audio,BrightLife,6493.38,8400
+P0041,NovaTech Audio 11,Electronics,Audio,NovaTech,6463.17,9200
+P0042,UrbanEdge Audio 12,Electronics,Audio,UrbanEdge,7785.16,10800
+P0043,HomeCraft Audio 13,Electronics,Audio,HomeCraft,11507.32,22800
+P0044,Aero Audio 14,Electronics,Audio,Aero,9246.89,15500
+P0045,Zenith Audio 15,Electronics,Audio,Zenith,6974.86,12400
+P0046,PrimeLine Accessories 01,Electronics,Accessories,PrimeLine,2279.64,4300
+P0047,Vista Accessories 02,Electronics,Accessories,Vista,1306.39,2500
+P0048,CorePlus Accessories 03,Electronics,Accessories,CorePlus,1183.4,2000
+P0049,Everday Accessories 04,Electronics,Accessories,Everday,894.29,1200
+P0050,BrightLife Accessories 05,Electronics,Accessories,BrightLife,2350.76,3800
+P0051,NovaTech Accessories 06,Electronics,Accessories,NovaTech,855.23,1500
+P0052,UrbanEdge Accessories 07,Electronics,Accessories,UrbanEdge,721.05,1400
+P0053,HomeCraft Accessories 08,Electronics,Accessories,HomeCraft,3198.81,5700
+P0054,Aero Accessories 09,Electronics,Accessories,Aero,2349.17,4000
+P0055,Zenith Accessories 10,Electronics,Accessories,Zenith,1296.95,2100
+P0056,PrimeLine Accessories 11,Electronics,Accessories,PrimeLine,2992.21,4200
+P0057,Vista Accessories 12,Electronics,Accessories,Vista,907.98,1600
+P0058,CorePlus Accessories 13,Electronics,Accessories,CorePlus,4746.49,6700
+P0059,Everday Accessories 14,Electronics,Accessories,Everday,1332.99,2100
+P0060,BrightLife Accessories 15,Electronics,Accessories,BrightLife,2279.98,4300
+P0061,NovaTech Kitchen Appliances 01,Home & Kitchen,Kitchen Appliances,NovaTech,2783.24,3900
+P0062,UrbanEdge Kitchen Appliances 02,Home & Kitchen,Kitchen Appliances,UrbanEdge,670.21,1100
+P0063,HomeCraft Kitchen Appliances 03,Home & Kitchen,Kitchen Appliances,HomeCraft,3061.55,4600
+P0064,Aero Kitchen Appliances 04,Home & Kitchen,Kitchen Appliances,Aero,1776.75,3100
+P0065,Zenith Kitchen Appliances 05,Home & Kitchen,Kitchen Appliances,Zenith,3155.22,5300
+P0066,PrimeLine Kitchen Appliances 06,Home & Kitchen,Kitchen Appliances,PrimeLine,4644.51,8300
+P0067,Vista Kitchen Appliances 07,Home & Kitchen,Kitchen Appliances,Vista,16694.25,24700
+P0068,CorePlus Kitchen Appliances 08,Home & Kitchen,Kitchen Appliances,CorePlus,10951.67,16500
+P0069,Everday Kitchen Appliances 09,Home & Kitchen,Kitchen Appliances,Everday,7584.55,10900
+P0070,BrightLife Kitchen Appliances 10,Home & Kitchen,Kitchen Appliances,BrightLife,2743.51,5600
+P0071,NovaTech Kitchen Appliances 11,Home & Kitchen,Kitchen Appliances,NovaTech,3321.74,5300
+P0072,UrbanEdge Kitchen Appliances 12,Home & Kitchen,Kitchen Appliances,UrbanEdge,13870.31,20100
+P0073,HomeCraft Kitchen Appliances 13,Home & Kitchen,Kitchen Appliances,HomeCraft,12723.79,18300
+P0074,Aero Kitchen Appliances 14,Home & Kitchen,Kitchen Appliances,Aero,9004.37,15800
+P0075,Zenith Kitchen Appliances 15,Home & Kitchen,Kitchen Appliances,Zenith,1415.45,2100
+P0076,PrimeLine Furniture 01,Home & Kitchen,Furniture,PrimeLine,1601.98,2700
+P0077,Vista Furniture 02,Home & Kitchen,Furniture,Vista,17492.18,29700
+P0078,CorePlus Furniture 03,Home & Kitchen,Furniture,CorePlus,12283.17,25200
+P0079,Everday Furniture 04,Home & Kitchen,Furniture,Everday,8820.63,17300
+P0080,BrightLife Furniture 05,Home & Kitchen,Furniture,BrightLife,7586.0,12600
+P0081,NovaTech Furniture 06,Home & Kitchen,Furniture,NovaTech,16633.52,26000
+P0082,UrbanEdge Furniture 07,Home & Kitchen,Furniture,UrbanEdge,14719.83,22000
+P0083,HomeCraft Furniture 08,Home & Kitchen,Furniture,HomeCraft,18271.5,24400
+P0084,Aero Furniture 09,Home & Kitchen,Furniture,Aero,18988.21,29500
+P0085,Zenith Furniture 10,Home & Kitchen,Furniture,Zenith,4710.91,7500
+P0086,PrimeLine Furniture 11,Home & Kitchen,Furniture,PrimeLine,13216.96,17400
+P0087,Vista Furniture 12,Home & Kitchen,Furniture,Vista,10140.83,13900
+P0088,CorePlus Furniture 13,Home & Kitchen,Furniture,CorePlus,13699.6,21300
+P0089,Everday Furniture 14,Home & Kitchen,Furniture,Everday,18980.97,26800
+P0090,BrightLife Furniture 15,Home & Kitchen,Furniture,BrightLife,7513.85,11300
+P0091,NovaTech Home Decor 01,Home & Kitchen,Home Decor,NovaTech,2498.51,3400
+P0092,UrbanEdge Home Decor 02,Home & Kitchen,Home Decor,UrbanEdge,1090.67,1400
+P0093,HomeCraft Home Decor 03,Home & Kitchen,Home Decor,HomeCraft,4747.43,6500
+P0094,Aero Home Decor 04,Home & Kitchen,Home Decor,Aero,3817.85,5800
+P0095,Zenith Home Decor 05,Home & Kitchen,Home Decor,Zenith,2667.71,4200
+P0096,PrimeLine Home Decor 06,Home & Kitchen,Home Decor,PrimeLine,4287.02,7900
+P0097,Vista Home Decor 07,Home & Kitchen,Home Decor,Vista,3611.25,6500
+P0098,CorePlus Home Decor 08,Home & Kitchen,Home Decor,CorePlus,3965.86,7500
+P0099,Everday Home Decor 09,Home & Kitchen,Home Decor,Everday,868.23,1600
+P0100,BrightLife Home Decor 10,Home & Kitchen,Home Decor,BrightLife,2008.4,3700
+P0101,NovaTech Home Decor 11,Home & Kitchen,Home Decor,NovaTech,4924.02,8500
+P0102,UrbanEdge Home Decor 12,Home & Kitchen,Home Decor,UrbanEdge,2331.16,3700
+P0103,HomeCraft Home Decor 13,Home & Kitchen,Home Decor,HomeCraft,2137.28,3700
+P0104,Aero Home Decor 14,Home & Kitchen,Home Decor,Aero,5460.98,8600
+P0105,Zenith Home Decor 15,Home & Kitchen,Home Decor,Zenith,6865.33,9700
+P0106,PrimeLine Storage 01,Home & Kitchen,Storage,PrimeLine,2450.45,3300
+P0107,Vista Storage 02,Home & Kitchen,Storage,Vista,4458.9,7400
+P0108,CorePlus Storage 03,Home & Kitchen,Storage,CorePlus,1058.87,1900
+P0109,Everday Storage 04,Home & Kitchen,Storage,Everday,2153.51,3800
+P0110,BrightLife Storage 05,Home & Kitchen,Storage,BrightLife,2154.05,3700
+P0111,NovaTech Storage 06,Home & Kitchen,Storage,NovaTech,3369.91,6900
+P0112,UrbanEdge Storage 07,Home & Kitchen,Storage,UrbanEdge,4069.76,7300
+P0113,HomeCraft Storage 08,Home & Kitchen,Storage,HomeCraft,1321.74,1700
+P0114,Aero Storage 09,Home & Kitchen,Storage,Aero,392.54,700
+P0115,Zenith Storage 10,Home & Kitchen,Storage,Zenith,1310.3,1900
+P0116,PrimeLine Storage 11,Home & Kitchen,Storage,PrimeLine,2734.06,4200
+P0117,Vista Storage 12,Home & Kitchen,Storage,Vista,2785.84,5700
+P0118,CorePlus Storage 13,Home & Kitchen,Storage,CorePlus,1509.35,2100
+P0119,Everday Storage 14,Home & Kitchen,Storage,Everday,4023.35,6000
+P0120,BrightLife Storage 15,Home & Kitchen,Storage,BrightLife,6020.04,7800
+P0121,NovaTech Men 01,Fashion,Men,NovaTech,1566.65,2500
+P0122,UrbanEdge Men 02,Fashion,Men,UrbanEdge,2184.88,3400
+P0123,HomeCraft Men 03,Fashion,Men,HomeCraft,2449.34,3300
+P0124,Aero Men 04,Fashion,Men,Aero,2476.78,3300
+P0125,Zenith Men 05,Fashion,Men,Zenith,2550.6,4000
+P0126,PrimeLine Men 06,Fashion,Men,PrimeLine,1123.07,2300
+P0127,Vista Men 07,Fashion,Men,Vista,2039.43,3900
+P0128,CorePlus Men 08,Fashion,Men,CorePlus,2720.54,4300
+P0129,Everday Men 09,Fashion,Men,Everday,2431.52,3500
+P0130,BrightLife Men 10,Fashion,Men,BrightLife,842.61,1500
+P0131,NovaTech Men 11,Fashion,Men,NovaTech,1492.23,2500
+P0132,UrbanEdge Men 12,Fashion,Men,UrbanEdge,1516.71,2400
+P0133,HomeCraft Men 13,Fashion,Men,HomeCraft,2899.29,5000
+P0134,Aero Men 14,Fashion,Men,Aero,1338.18,2000
+P0135,Zenith Men 15,Fashion,Men,Zenith,1921.99,2900
+P0136,PrimeLine Women 01,Fashion,Women,PrimeLine,3011.7,4000
+P0137,Vista Women 02,Fashion,Women,Vista,3100.89,5200
+P0138,CorePlus Women 03,Fashion,Women,CorePlus,3061.87,6100
+P0139,Everday Women 04,Fashion,Women,Everday,621.79,1100
+P0140,BrightLife Women 05,Fashion,Women,BrightLife,4311.03,6400
+P0141,NovaTech Women 06,Fashion,Women,NovaTech,2111.78,3000
+P0142,UrbanEdge Women 07,Fashion,Women,UrbanEdge,466.2,800
+P0143,HomeCraft Women 08,Fashion,Women,HomeCraft,1104.6,1900
+P0144,Aero Women 09,Fashion,Women,Aero,3124.82,4800
+P0145,Zenith Women 10,Fashion,Women,Zenith,3023.87,3900
+P0146,PrimeLine Women 11,Fashion,Women,PrimeLine,1542.85,3000
+P0147,Vista Women 12,Fashion,Women,Vista,972.33,1600
+P0148,CorePlus Women 13,Fashion,Women,CorePlus,2499.45,4700
+P0149,Everday Women 14,Fashion,Women,Everday,2634.18,5100
+P0150,BrightLife Women 15,Fashion,Women,BrightLife,2983.39,5600
+P0151,NovaTech Footwear 01,Fashion,Footwear,NovaTech,1741.5,2500
+P0152,UrbanEdge Footwear 02,Fashion,Footwear,UrbanEdge,2470.62,3700
+P0153,HomeCraft Footwear 03,Fashion,Footwear,HomeCraft,4449.15,5900
+P0154,Aero Footwear 04,Fashion,Footwear,Aero,2324.82,3200
+P0155,Zenith Footwear 05,Fashion,Footwear,Zenith,3952.69,7200
+P0156,PrimeLine Footwear 06,Fashion,Footwear,PrimeLine,1358.5,2100
+P0157,Vista Footwear 07,Fashion,Footwear,Vista,4221.08,8600
+P0158,CorePlus Footwear 08,Fashion,Footwear,CorePlus,470.41,700
+P0159,Everday Footwear 09,Fashion,Footwear,Everday,5041.85,6600
+P0160,BrightLife Footwear 10,Fashion,Footwear,BrightLife,2680.03,4400
+P0161,NovaTech Footwear 11,Fashion,Footwear,NovaTech,5737.77,8700
+P0162,UrbanEdge Footwear 12,Fashion,Footwear,UrbanEdge,711.58,1100
+P0163,HomeCraft Footwear 13,Fashion,Footwear,HomeCraft,2655.22,4800
+P0164,Aero Footwear 14,Fashion,Footwear,Aero,5397.21,7600
+P0165,Zenith Footwear 15,Fashion,Footwear,Zenith,5110.59,7600
+P0166,PrimeLine Accessories 01,Fashion,Accessories,PrimeLine,342.32,700
+P0167,Vista Accessories 02,Fashion,Accessories,Vista,1516.48,2200
+P0168,CorePlus Accessories 03,Fashion,Accessories,CorePlus,3682.26,5300
+P0169,Everday Accessories 04,Fashion,Accessories,Everday,1986.34,4000
+P0170,BrightLife Accessories 05,Fashion,Accessories,BrightLife,1078.28,1900
+P0171,NovaTech Accessories 06,Fashion,Accessories,NovaTech,2099.09,3700
+P0172,UrbanEdge Accessories 07,Fashion,Accessories,UrbanEdge,3780.69,6000
+P0173,HomeCraft Accessories 08,Fashion,Accessories,HomeCraft,990.74,1700
+P0174,Aero Accessories 09,Fashion,Accessories,Aero,1056.09,1600
+P0175,Zenith Accessories 10,Fashion,Accessories,Zenith,4779.65,6600
+P0176,PrimeLine Accessories 11,Fashion,Accessories,PrimeLine,1386.21,2300
+P0177,Vista Accessories 12,Fashion,Accessories,Vista,2657.36,4300
+P0178,CorePlus Accessories 13,Fashion,Accessories,CorePlus,1405.75,2800
+P0179,Everday Accessories 14,Fashion,Accessories,Everday,4000.32,6800
+P0180,BrightLife Accessories 15,Fashion,Accessories,BrightLife,3308.08,4800
+P0181,NovaTech Skincare 01,Beauty & Personal Care,Skincare,NovaTech,644.12,1100
+P0182,UrbanEdge Skincare 02,Beauty & Personal Care,Skincare,UrbanEdge,1658.27,3200
+P0183,HomeCraft Skincare 03,Beauty & Personal Care,Skincare,HomeCraft,658.15,1200
+P0184,Aero Skincare 04,Beauty & Personal Care,Skincare,Aero,1597.19,3300
+P0185,Zenith Skincare 05,Beauty & Personal Care,Skincare,Zenith,3000.01,4700
+P0186,PrimeLine Skincare 06,Beauty & Personal Care,Skincare,PrimeLine,1777.86,3400
+P0187,Vista Skincare 07,Beauty & Personal Care,Skincare,Vista,449.37,900
+P0188,CorePlus Skincare 08,Beauty & Personal Care,Skincare,CorePlus,2736.85,4600
+P0189,Everday Skincare 09,Beauty & Personal Care,Skincare,Everday,3521.63,4600
+P0190,BrightLife Skincare 10,Beauty & Personal Care,Skincare,BrightLife,1929.97,2600
+P0191,NovaTech Skincare 11,Beauty & Personal Care,Skincare,NovaTech,1532.17,2300
+P0192,UrbanEdge Skincare 12,Beauty & Personal Care,Skincare,UrbanEdge,617.52,1200
+P0193,HomeCraft Skincare 13,Beauty & Personal Care,Skincare,HomeCraft,255.89,500
+P0194,Aero Skincare 14,Beauty & Personal Care,Skincare,Aero,1444.56,2200
+P0195,Zenith Skincare 15,Beauty & Personal Care,Skincare,Zenith,1388.94,1800
+P0196,PrimeLine Haircare 01,Beauty & Personal Care,Haircare,PrimeLine,1252.97,1700
+P0197,Vista Haircare 02,Beauty & Personal Care,Haircare,Vista,272.19,400
+P0198,CorePlus Haircare 03,Beauty & Personal Care,Haircare,CorePlus,1077.78,2200
+P0199,Everday Haircare 04,Beauty & Personal Care,Haircare,Everday,2055.31,3300
+P0200,BrightLife Haircare 05,Beauty & Personal Care,Haircare,BrightLife,494.02,700
+P0201,NovaTech Haircare 06,Beauty & Personal Care,Haircare,NovaTech,1355.52,2200
+P0202,UrbanEdge Haircare 07,Beauty & Personal Care,Haircare,UrbanEdge,1646.94,2500
+P0203,HomeCraft Haircare 08,Beauty & Personal Care,Haircare,HomeCraft,681.07,900
+P0204,Aero Haircare 09,Beauty & Personal Care,Haircare,Aero,595.46,1000
+P0205,Zenith Haircare 10,Beauty & Personal Care,Haircare,Zenith,1796.34,3100
+P0206,PrimeLine Haircare 11,Beauty & Personal Care,Haircare,PrimeLine,822.4,1100
+P0207,Vista Haircare 12,Beauty & Personal Care,Haircare,Vista,825.39,1400
+P0208,CorePlus Haircare 13,Beauty & Personal Care,Haircare,CorePlus,1782.06,3300
+P0209,Everday Haircare 14,Beauty & Personal Care,Haircare,Everday,821.29,1600
+P0210,BrightLife Haircare 15,Beauty & Personal Care,Haircare,BrightLife,849.59,1200
+P0211,NovaTech Personal Care 01,Beauty & Personal Care,Personal Care,NovaTech,555.79,1000
+P0212,UrbanEdge Personal Care 02,Beauty & Personal Care,Personal Care,UrbanEdge,1286.78,1900
+P0213,HomeCraft Personal Care 03,Beauty & Personal Care,Personal Care,HomeCraft,1872.87,2800
+P0214,Aero Personal Care 04,Beauty & Personal Care,Personal Care,Aero,1368.69,2400
+P0215,Zenith Personal Care 05,Beauty & Personal Care,Personal Care,Zenith,618.52,800
+P0216,PrimeLine Personal Care 06,Beauty & Personal Care,Personal Care,PrimeLine,1049.23,1600
+P0217,Vista Personal Care 07,Beauty & Personal Care,Personal Care,Vista,1870.7,2800
+P0218,CorePlus Personal Care 08,Beauty & Personal Care,Personal Care,CorePlus,522.48,900
+P0219,Everday Personal Care 09,Beauty & Personal Care,Personal Care,Everday,466.21,900
+P0220,BrightLife Personal Care 10,Beauty & Personal Care,Personal Care,BrightLife,1537.99,2700
+P0221,NovaTech Personal Care 11,Beauty & Personal Care,Personal Care,NovaTech,1514.89,2300
+P0222,UrbanEdge Personal Care 12,Beauty & Personal Care,Personal Care,UrbanEdge,387.72,700
+P0223,HomeCraft Personal Care 13,Beauty & Personal Care,Personal Care,HomeCraft,230.33,300
+P0224,Aero Personal Care 14,Beauty & Personal Care,Personal Care,Aero,369.59,600
+P0225,Zenith Personal Care 15,Beauty & Personal Care,Personal Care,Zenith,297.87,400
+P0226,PrimeLine Makeup 01,Beauty & Personal Care,Makeup,PrimeLine,619.29,1100
+P0227,Vista Makeup 02,Beauty & Personal Care,Makeup,Vista,694.04,1400
+P0228,CorePlus Makeup 03,Beauty & Personal Care,Makeup,CorePlus,668.35,1100
+P0229,Everday Makeup 04,Beauty & Personal Care,Makeup,Everday,979.73,1400
+P0230,BrightLife Makeup 05,Beauty & Personal Care,Makeup,BrightLife,1673.96,2400
+P0231,NovaTech Makeup 06,Beauty & Personal Care,Makeup,NovaTech,699.62,1400
+P0232,UrbanEdge Makeup 07,Beauty & Personal Care,Makeup,UrbanEdge,1034.26,1500
+P0233,HomeCraft Makeup 08,Beauty & Personal Care,Makeup,HomeCraft,577.11,900
+P0234,Aero Makeup 09,Beauty & Personal Care,Makeup,Aero,3393.15,4400
+P0235,Zenith Makeup 10,Beauty & Personal Care,Makeup,Zenith,1014.59,1700
+P0236,PrimeLine Makeup 11,Beauty & Personal Care,Makeup,PrimeLine,387.26,700
+P0237,Vista Makeup 12,Beauty & Personal Care,Makeup,Vista,2099.41,3100
+P0238,CorePlus Makeup 13,Beauty & Personal Care,Makeup,CorePlus,3305.14,4800
+P0239,Everday Makeup 14,Beauty & Personal Care,Makeup,Everday,1859.35,2600
+P0240,BrightLife Makeup 15,Beauty & Personal Care,Makeup,BrightLife,1319.34,2700
+P0241,NovaTech Fiction 01,Books,Fiction,NovaTech,314.84,600
+P0242,UrbanEdge Fiction 02,Books,Fiction,UrbanEdge,552.7,1000
+P0243,HomeCraft Fiction 03,Books,Fiction,HomeCraft,288.31,500
+P0244,Aero Fiction 04,Books,Fiction,Aero,331.44,600
+P0245,Zenith Fiction 05,Books,Fiction,Zenith,247.0,400
+P0246,PrimeLine Fiction 06,Books,Fiction,PrimeLine,426.75,800
+P0247,Vista Fiction 07,Books,Fiction,Vista,597.58,900
+P0248,CorePlus Fiction 08,Books,Fiction,CorePlus,878.22,1200
+P0249,Everday Fiction 09,Books,Fiction,Everday,611.23,900
+P0250,BrightLife Fiction 10,Books,Fiction,BrightLife,163.52,300
+P0251,NovaTech Fiction 11,Books,Fiction,NovaTech,495.32,1000
+P0252,UrbanEdge Fiction 12,Books,Fiction,UrbanEdge,439.96,600
+P0253,HomeCraft Fiction 13,Books,Fiction,HomeCraft,384.77,500
+P0254,Aero Fiction 14,Books,Fiction,Aero,164.5,300
+P0255,Zenith Fiction 15,Books,Fiction,Zenith,442.79,700
+P0256,PrimeLine Non-Fiction 01,Books,Non-Fiction,PrimeLine,335.5,500
+P0257,Vista Non-Fiction 02,Books,Non-Fiction,Vista,573.89,800
+P0258,CorePlus Non-Fiction 03,Books,Non-Fiction,CorePlus,352.97,600
+P0259,Everday Non-Fiction 04,Books,Non-Fiction,Everday,351.39,700
+P0260,BrightLife Non-Fiction 05,Books,Non-Fiction,BrightLife,444.09,700
+P0261,NovaTech Non-Fiction 06,Books,Non-Fiction,NovaTech,842.67,1400
+P0262,UrbanEdge Non-Fiction 07,Books,Non-Fiction,UrbanEdge,1219.63,1800
+P0263,HomeCraft Non-Fiction 08,Books,Non-Fiction,HomeCraft,440.94,600
+P0264,Aero Non-Fiction 09,Books,Non-Fiction,Aero,877.24,1700
+P0265,Zenith Non-Fiction 10,Books,Non-Fiction,Zenith,1352.97,1800
+P0266,PrimeLine Non-Fiction 11,Books,Non-Fiction,PrimeLine,1181.38,1700
+P0267,Vista Non-Fiction 12,Books,Non-Fiction,Vista,292.67,400
+P0268,CorePlus Non-Fiction 13,Books,Non-Fiction,CorePlus,949.1,1400
+P0269,Everday Non-Fiction 14,Books,Non-Fiction,Everday,917.25,1500
+P0270,BrightLife Non-Fiction 15,Books,Non-Fiction,BrightLife,1006.81,1600
+P0271,NovaTech Academic 01,Books,Academic,NovaTech,888.43,1400
+P0272,UrbanEdge Academic 02,Books,Academic,UrbanEdge,1427.43,2300
+P0273,HomeCraft Academic 03,Books,Academic,HomeCraft,1379.17,2000
+P0274,Aero Academic 04,Books,Academic,Aero,503.04,900
+P0275,Zenith Academic 05,Books,Academic,Zenith,602.65,1000
+P0276,PrimeLine Academic 06,Books,Academic,PrimeLine,1245.97,2200
+P0277,Vista Academic 07,Books,Academic,Vista,690.25,1000
+P0278,CorePlus Academic 08,Books,Academic,CorePlus,450.44,900
+P0279,Everday Academic 09,Books,Academic,Everday,849.3,1100
+P0280,BrightLife Academic 10,Books,Academic,BrightLife,1132.04,2000
+P0281,NovaTech Academic 11,Books,Academic,NovaTech,345.03,600
+P0282,UrbanEdge Academic 12,Books,Academic,UrbanEdge,1135.65,1700
+P0283,HomeCraft Academic 13,Books,Academic,HomeCraft,419.87,700
+P0284,Aero Academic 14,Books,Academic,Aero,846.31,1200
+P0285,Zenith Academic 15,Books,Academic,Zenith,865.44,1200
+P0286,PrimeLine Children 01,Books,Children,PrimeLine,199.22,300
+P0287,Vista Children 02,Books,Children,Vista,308.6,500
+P0288,CorePlus Children 03,Books,Children,CorePlus,474.8,900
+P0289,Everday Children 04,Books,Children,Everday,202.17,400
+P0290,BrightLife Children 05,Books,Children,BrightLife,565.5,1000
+P0291,NovaTech Children 06,Books,Children,NovaTech,182.25,300
+P0292,UrbanEdge Children 07,Books,Children,UrbanEdge,238.91,400
+P0293,HomeCraft Children 08,Books,Children,HomeCraft,537.09,700
+P0294,Aero Children 09,Books,Children,Aero,231.86,300
+P0295,Zenith Children 10,Books,Children,Zenith,111.16,200
+P0296,PrimeLine Children 11,Books,Children,PrimeLine,190.41,300
+P0297,Vista Children 12,Books,Children,Vista,133.63,200
+P0298,CorePlus Children 13,Books,Children,CorePlus,342.66,700
+P0299,Everday Children 14,Books,Children,Everday,205.16,300
+P0300,BrightLife Children 15,Books,Children,BrightLife,344.32,600
+P0301,NovaTech Stationery 01,Office Supplies,Stationery,NovaTech,509.98,900
+P0302,UrbanEdge Stationery 02,Office Supplies,Stationery,UrbanEdge,58.9,100
+P0303,HomeCraft Stationery 03,Office Supplies,Stationery,HomeCraft,450.29,800
+P0304,Aero Stationery 04,Office Supplies,Stationery,Aero,119.14,200
+P0305,Zenith Stationery 05,Office Supplies,Stationery,Zenith,823.33,1200
+P0306,PrimeLine Stationery 06,Office Supplies,Stationery,PrimeLine,379.04,600
+P0307,Vista Stationery 07,Office Supplies,Stationery,Vista,288.34,500
+P0308,CorePlus Stationery 08,Office Supplies,Stationery,CorePlus,598.77,1000
+P0309,Everday Stationery 09,Office Supplies,Stationery,Everday,837.35,1100
+P0310,BrightLife Stationery 10,Office Supplies,Stationery,BrightLife,624.9,900
+P0311,NovaTech Stationery 11,Office Supplies,Stationery,NovaTech,225.54,400
+P0312,UrbanEdge Stationery 12,Office Supplies,Stationery,UrbanEdge,916.6,1200
+P0313,HomeCraft Stationery 13,Office Supplies,Stationery,HomeCraft,1037.61,1500
+P0314,Aero Stationery 14,Office Supplies,Stationery,Aero,277.65,500
+P0315,Zenith Stationery 15,Office Supplies,Stationery,Zenith,678.64,900
+P0316,PrimeLine Printers 01,Office Supplies,Printers,PrimeLine,12447.96,16200
+P0317,Vista Printers 02,Office Supplies,Printers,Vista,19872.97,27100
+P0318,CorePlus Printers 03,Office Supplies,Printers,CorePlus,17726.36,28700
+P0319,Everday Printers 04,Office Supplies,Printers,Everday,9797.34,16400
+P0320,BrightLife Printers 05,Office Supplies,Printers,BrightLife,3908.29,5800
+P0321,NovaTech Printers 06,Office Supplies,Printers,NovaTech,3875.17,5800
+P0322,UrbanEdge Printers 07,Office Supplies,Printers,UrbanEdge,12955.3,26300
+P0323,HomeCraft Printers 08,Office Supplies,Printers,HomeCraft,16681.67,24600
+P0324,Aero Printers 09,Office Supplies,Printers,Aero,13829.35,18600
+P0325,Zenith Printers 10,Office Supplies,Printers,Zenith,7689.99,13400
+P0326,PrimeLine Printers 11,Office Supplies,Printers,PrimeLine,9138.84,14400
+P0327,Vista Printers 12,Office Supplies,Printers,Vista,14311.84,23600
+P0328,CorePlus Printers 13,Office Supplies,Printers,CorePlus,16612.48,29500
+P0329,Everday Printers 14,Office Supplies,Printers,Everday,13440.65,23800
+P0330,BrightLife Printers 15,Office Supplies,Printers,BrightLife,15083.71,23500
+P0331,NovaTech Office Furniture 01,Office Supplies,Office Furniture,NovaTech,8687.9,13000
+P0332,UrbanEdge Office Furniture 02,Office Supplies,Office Furniture,UrbanEdge,2401.27,4500
+P0333,HomeCraft Office Furniture 03,Office Supplies,Office Furniture,HomeCraft,2600.47,4500
+P0334,Aero Office Furniture 04,Office Supplies,Office Furniture,Aero,12664.74,21500
+P0335,Zenith Office Furniture 05,Office Supplies,Office Furniture,Zenith,3960.51,5100
+P0336,PrimeLine Office Furniture 06,Office Supplies,Office Furniture,PrimeLine,12856.24,19300
+P0337,Vista Office Furniture 07,Office Supplies,Office Furniture,Vista,10414.66,16800
+P0338,CorePlus Office Furniture 08,Office Supplies,Office Furniture,CorePlus,2524.97,4600
+P0339,Everday Office Furniture 09,Office Supplies,Office Furniture,Everday,6791.25,10100
+P0340,BrightLife Office Furniture 10,Office Supplies,Office Furniture,BrightLife,12341.22,23200
+P0341,NovaTech Office Furniture 11,Office Supplies,Office Furniture,NovaTech,13360.2,23500
+P0342,UrbanEdge Office Furniture 12,Office Supplies,Office Furniture,UrbanEdge,13798.93,18800
+P0343,HomeCraft Office Furniture 13,Office Supplies,Office Furniture,HomeCraft,5906.29,9900
+P0344,Aero Office Furniture 14,Office Supplies,Office Furniture,Aero,4936.34,7300
+P0345,Zenith Office Furniture 15,Office Supplies,Office Furniture,Zenith,4670.16,7500
+P0346,PrimeLine Writing 01,Office Supplies,Writing,PrimeLine,0.0,0
+P0347,Vista Writing 02,Office Supplies,Writing,Vista,203.31,300
+P0348,CorePlus Writing 03,Office Supplies,Writing,CorePlus,225.48,400
+P0349,Everday Writing 04,Office Supplies,Writing,Everday,371.58,500
+P0350,BrightLife Writing 05,Office Supplies,Writing,BrightLife,648.33,900
+P0351,NovaTech Writing 06,Office Supplies,Writing,NovaTech,53.14,100
+P0352,UrbanEdge Writing 07,Office Supplies,Writing,UrbanEdge,283.77,500
+P0353,HomeCraft Writing 08,Office Supplies,Writing,HomeCraft,314.98,500
+P0354,Aero Writing 09,Office Supplies,Writing,Aero,53.47,100
+P0355,Zenith Writing 10,Office Supplies,Writing,Zenith,388.1,600
+P0356,PrimeLine Writing 11,Office Supplies,Writing,PrimeLine,279.89,400
+P0357,Vista Writing 12,Office Supplies,Writing,Vista,200.42,300
+P0358,CorePlus Writing 13,Office Supplies,Writing,CorePlus,348.62,600
+P0359,Everday Writing 14,Office Supplies,Writing,Everday,574.61,900
+P0360,BrightLife Writing 15,Office Supplies,Writing,BrightLife,399.29,800
+P0361,NovaTech Fitness Equipment 01,Sports & Fitness,Fitness Equipment,NovaTech,4357.56,8700
+P0362,UrbanEdge Fitness Equipment 02,Sports & Fitness,Fitness Equipment,UrbanEdge,3635.8,6000
+P0363,HomeCraft Fitness Equipment 03,Sports & Fitness,Fitness Equipment,HomeCraft,18826.33,26400
+P0364,Aero Fitness Equipment 04,Sports & Fitness,Fitness Equipment,Aero,16448.91,24500
+P0365,Zenith Fitness Equipment 05,Sports & Fitness,Fitness Equipment,Zenith,14376.92,20200
+P0366,PrimeLine Fitness Equipment 06,Sports & Fitness,Fitness Equipment,PrimeLine,7941.12,15700
+P0367,Vista Fitness Equipment 07,Sports & Fitness,Fitness Equipment,Vista,13320.44,27200
+P0368,CorePlus Fitness Equipment 08,Sports & Fitness,Fitness Equipment,CorePlus,15157.01,21100
+P0369,Everday Fitness Equipment 09,Sports & Fitness,Fitness Equipment,Everday,728.84,1300
+P0370,BrightLife Fitness Equipment 10,Sports & Fitness,Fitness Equipment,BrightLife,4873.62,8900
+P0371,NovaTech Fitness Equipment 11,Sports & Fitness,Fitness Equipment,NovaTech,11285.09,16700
+P0372,UrbanEdge Fitness Equipment 12,Sports & Fitness,Fitness Equipment,UrbanEdge,4598.59,7800
+P0373,HomeCraft Fitness Equipment 13,Sports & Fitness,Fitness Equipment,HomeCraft,15032.86,21700
+P0374,Aero Fitness Equipment 14,Sports & Fitness,Fitness Equipment,Aero,15931.09,26700
+P0375,Zenith Fitness Equipment 15,Sports & Fitness,Fitness Equipment,Zenith,17923.54,28400
+P0376,PrimeLine Outdoor 01,Sports & Fitness,Outdoor,PrimeLine,3667.24,6500
+P0377,Vista Outdoor 02,Sports & Fitness,Outdoor,Vista,6261.61,10800
+P0378,CorePlus Outdoor 03,Sports & Fitness,Outdoor,CorePlus,5535.05,9900
+P0379,Everday Outdoor 04,Sports & Fitness,Outdoor,Everday,3432.53,6500
+P0380,BrightLife Outdoor 05,Sports & Fitness,Outdoor,BrightLife,2885.49,5400
+P0381,NovaTech Outdoor 06,Sports & Fitness,Outdoor,NovaTech,3345.62,6400
+P0382,UrbanEdge Outdoor 07,Sports & Fitness,Outdoor,UrbanEdge,1122.3,2200
+P0383,HomeCraft Outdoor 08,Sports & Fitness,Outdoor,HomeCraft,3687.33,5500
+P0384,Aero Outdoor 09,Sports & Fitness,Outdoor,Aero,7048.9,11900
+P0385,Zenith Outdoor 10,Sports & Fitness,Outdoor,Zenith,2806.86,5500
+P0386,PrimeLine Outdoor 11,Sports & Fitness,Outdoor,PrimeLine,4266.59,5900
+P0387,Vista Outdoor 12,Sports & Fitness,Outdoor,Vista,4551.69,7300
+P0388,CorePlus Outdoor 13,Sports & Fitness,Outdoor,CorePlus,1170.8,2000
+P0389,Everday Outdoor 14,Sports & Fitness,Outdoor,Everday,4750.09,8000
+P0390,BrightLife Outdoor 15,Sports & Fitness,Outdoor,BrightLife,5997.72,10900
+P0391,NovaTech Sportswear 01,Sports & Fitness,Sportswear,NovaTech,2530.54,5000
+P0392,UrbanEdge Sportswear 02,Sports & Fitness,Sportswear,UrbanEdge,3388.02,5200
+P0393,HomeCraft Sportswear 03,Sports & Fitness,Sportswear,HomeCraft,1126.89,2300
+P0394,Aero Sportswear 04,Sports & Fitness,Sportswear,Aero,1821.16,3100
+P0395,Zenith Sportswear 05,Sports & Fitness,Sportswear,Zenith,2387.66,4700
+P0396,PrimeLine Sportswear 06,Sports & Fitness,Sportswear,PrimeLine,701.22,1400
+P0397,Vista Sportswear 07,Sports & Fitness,Sportswear,Vista,3161.18,5800
+P0398,CorePlus Sportswear 08,Sports & Fitness,Sportswear,CorePlus,1370.03,1900
+P0399,Everday Sportswear 09,Sports & Fitness,Sportswear,Everday,1327.58,2300
+P0400,BrightLife Sportswear 10,Sports & Fitness,Sportswear,BrightLife,2144.86,3200
+P0401,NovaTech Sportswear 11,Sports & Fitness,Sportswear,NovaTech,731.71,1200
+P0402,UrbanEdge Sportswear 12,Sports & Fitness,Sportswear,UrbanEdge,1903.7,3400
+P0403,HomeCraft Sportswear 13,Sports & Fitness,Sportswear,HomeCraft,3066.58,4700
+P0404,Aero Sportswear 14,Sports & Fitness,Sportswear,Aero,3177.22,4200
+P0405,Zenith Sportswear 15,Sports & Fitness,Sportswear,Zenith,2092.02,3000
+P0406,PrimeLine Accessories 01,Sports & Fitness,Accessories,PrimeLine,2784.1,5000
+P0407,Vista Accessories 02,Sports & Fitness,Accessories,Vista,2592.95,3800
+P0408,CorePlus Accessories 03,Sports & Fitness,Accessories,CorePlus,586.14,1000
+P0409,Everday Accessories 04,Sports & Fitness,Accessories,Everday,2561.99,3500
+P0410,BrightLife Accessories 05,Sports & Fitness,Accessories,BrightLife,242.64,400
+P0411,NovaTech Accessories 06,Sports & Fitness,Accessories,NovaTech,2754.19,4400
+P0412,UrbanEdge Accessories 07,Sports & Fitness,Accessories,UrbanEdge,2450.8,4900
+P0413,HomeCraft Accessories 08,Sports & Fitness,Accessories,HomeCraft,3768.54,6200
+P0414,Aero Accessories 09,Sports & Fitness,Accessories,Aero,505.73,1000
+P0415,Zenith Accessories 10,Sports & Fitness,Accessories,Zenith,2220.66,4400
+P0416,PrimeLine Accessories 11,Sports & Fitness,Accessories,PrimeLine,4157.48,6800
+P0417,Vista Accessories 12,Sports & Fitness,Accessories,Vista,1152.02,1800
+P0418,CorePlus Accessories 13,Sports & Fitness,Accessories,CorePlus,617.7,1200
+P0419,Everday Accessories 14,Sports & Fitness,Accessories,Everday,582.7,900
+P0420,BrightLife Accessories 15,Sports & Fitness,Accessories,BrightLife,725.04,1300
